@@ -1,1 +1,4 @@
-/hello_world_marina
+# Ignorar executáveis sem extensão (comuns no Linux do Chromebook)
+*
+!*.*
+!*/
